@@ -1,9 +1,6 @@
 package core.basesyntax;
 
-import java.util.Comparator;
-import java.util.List;
 import java.util.Objects;
-import java.util.Set;
 
 public class Employee {
     private String name;
